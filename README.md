@@ -44,8 +44,10 @@ No setup required - just click and start chatting with sentiment analysis!
 | Negative | 😞 |
 
 ---
-🧪 Example Interaction
+🧪 Example Interaction 
+
 User Input:
+
 I am very happy with your support!
 
 Output:
